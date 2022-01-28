@@ -1,5 +1,5 @@
 # FileManager-O3-Client
-Online versions of FileManager.Here,you can store your files on your own cloud servers.
+Online versions of FileManager.Here,you can store your files on your own cloud servers.Visit https://github.com/ArthurZhou/FileManager-O3-Server for a server version.
 
 
 What we have just done in FileManager-O3 Alpha0.10.0
