@@ -2,7 +2,7 @@
 Online versions of FileManager.Here,you can store your files on your own cloud servers.
 
 
-What`s we`ve just done in FileManager-O3 Alpha0.10.0
+What we have just done in FileManager-O3 Alpha0.10.0
 
 [ x ] 1.enable online drive
 
